@@ -1,0 +1,1281 @@
+2025-07-24 07:51:38,512 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 07:51:38,512 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 07:51:38,513 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 07:51:39,743 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 07:51:39,745 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 07:56:00,896 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:56:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-24 07:56:01,111 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:56:01] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-24 07:56:01,114 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:56:01] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-24 07:56:01,151 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:56:01] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=AD7MQoljeStUKroTyUFy HTTP/1.1" 200 -
+2025-07-24 07:56:01,155 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:56:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-24 07:57:29,359 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 07:57:29,477 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 07:57:30,362 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 07:57:30,388 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 07:57:30,391 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 07:57:38,235 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 07:57:38,299 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 07:57:39,160 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 07:57:39,186 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 07:57:39,188 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 07:57:43,111 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 07:57:43,142 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 07:57:43,142 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 07:57:43,143 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 07:57:43,988 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 07:57:44,013 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 07:57:44,015 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 07:58:10,936 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-24 07:58:10,988 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-24 07:58:10,988 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-24 07:58:11,054 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:11] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=vqRhRJIxaYjhlpw0dboS HTTP/1.1" 200 -
+2025-07-24 07:58:11,116 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-24 07:58:11,199 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-24 07:58:11,202 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-24 07:58:11,237 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=vqRhRJIxaYjhlpw0dboS HTTP/1.1[0m" 304 -
+2025-07-24 07:58:32,568 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-24 07:58:32,695 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-24 07:58:32,695 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-24 07:58:32,741 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 07:58:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=vqRhRJIxaYjhlpw0dboS HTTP/1.1[0m" 304 -
+2025-07-24 08:03:49,416 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 08:03:49,416 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 08:03:49,417 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:03:50,645 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:03:50,648 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:04:08,696 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-24 08:04:08,705 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-24 08:04:08,706 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-24 08:04:08,762 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=vqRhRJIxaYjhlpw0dboS HTTP/1.1[0m" 304 -
+2025-07-24 08:04:17,370 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-24 08:04:17,379 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-07-24 08:04:17,379 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-07-24 08:04:17,438 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:04:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=vqRhRJIxaYjhlpw0dboS HTTP/1.1[0m" 304 -
+2025-07-24 08:05:01,209 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\web_interface.py', reloading
+2025-07-24 08:05:01,280 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:05:01,878 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\web_interface.py', reloading
+2025-07-24 08:05:01,966 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:05:02,024 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\web_interface.py', reloading
+2025-07-24 08:05:02,135 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:05:02,153 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:05:02,179 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:05:02,182 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:05:02,827 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:05:02,852 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:05:02,855 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:05:03,372 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:05:03,375 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:05:06,194 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 08:05:06,194 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 08:05:06,195 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:05:07,434 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:05:07,437 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:05:57,517 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:05:57] "GET / HTTP/1.1" 200 -
+2025-07-24 08:05:57,567 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:05:57] "GET /static/js/app.js HTTP/1.1" 200 -
+2025-07-24 08:05:57,567 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:05:57] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-07-24 08:05:57,611 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:05:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-24 08:06:09,537 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:06:09] "POST /api/login HTTP/1.1" 200 -
+2025-07-24 08:06:45,954 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:06:45] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:08:25,172 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:08:25] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:08:42,488 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:08:42] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:10:01,071 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:01,157 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:01,506 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:01,527 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:01,614 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:01,663 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:01,832 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:01,953 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:02,466 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:02,469 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:02,496 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:10:02,521 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:02,524 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:02,823 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:10:02,849 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:02,852 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:02,932 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:02,935 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:08,167 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:08,178 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:08,259 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:08,284 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:08,492 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:08,571 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:08,585 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:08,684 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:09,144 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:10:09,169 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:09,172 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:09,445 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:10:09,471 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:09,473 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:09,537 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:09,540 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:09,926 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:09,929 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:21,461 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:21,530 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:21,757 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:21,793 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:21,849 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:21,914 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:22,203 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:10:22,336 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:22,453 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:10:22,479 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:22,482 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:22,746 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:10:22,772 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:22,775 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:23,197 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:23,200 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:23,594 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:23,597 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:30,086 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 08:10:30,086 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 08:10:30,087 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:10:31,362 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:10:31,365 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:10:46,249 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:11:02,490 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 08:11:02,499 - room_booking_agent - INFO - Processed user request: I need a conference room for 10 people tomorrow at 2 PM for 2 hours
+2025-07-24 08:11:50,551 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:11:50] "GET / HTTP/1.1" 200 -
+2025-07-24 08:11:50,602 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:11:50] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-24 08:11:50,602 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:11:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-24 08:12:07,452 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:12:07] "POST /api/login HTTP/1.1" 200 -
+2025-07-24 08:12:34,898 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:12:34] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:13:34,130 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:34,210 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:34,373 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:34,405 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:34,495 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:34,528 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:34,642 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:34,744 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:34,933 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:35,060 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:35,150 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:13:35,177 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:35,180 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:35,618 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:13:35,643 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:35,646 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:35,843 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:35,846 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:35,878 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:35,881 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:36,310 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:36,313 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:40,860 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:40,860 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:40,951 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:40,968 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:41,294 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:41,380 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:41,546 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:41,575 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:13:41,677 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:41,711 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:41,852 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:13:41,853 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:13:41,852 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:13:41,853 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:13:41,853 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:13:41,879 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:41,882 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:42,214 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:13:42,240 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:42,243 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:42,253 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:13:42,253 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:13:42,253 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:13:42,278 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:42,281 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:42,546 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:13:42,546 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:13:42,576 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:13:42,576 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:13:42,984 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:13:43,011 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:43,013 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:43,015 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:13:43,041 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:43,044 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:13:45,706 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:13:45,707 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:13:46,071 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:13:46,102 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 08:13:46,102 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 08:13:46,103 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:13:46,951 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:13:46,952 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:13:47,302 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:13:47,328 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:13:47,331 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:14:32,208 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:14:32] "GET / HTTP/1.1" 200 -
+2025-07-24 08:14:32,257 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:14:32] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-24 08:14:32,257 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:14:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-24 08:14:44,646 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:14:44] "POST /api/login HTTP/1.1" 200 -
+2025-07-24 08:14:51,469 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:14:51] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:16:35,534 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:35,547 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:35,641 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:35,649 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:35,851 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:35,866 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:35,976 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:35,981 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:36,342 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:36,360 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:36,494 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:36,514 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:36,601 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:36,601 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:36,601 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:16:36,601 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:36,601 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:16:36,628 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:36,631 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:36,863 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:36,863 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:16:36,863 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:16:36,863 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:36,863 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:36,888 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:36,891 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:36,968 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:36,994 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:36,998 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:37,225 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:37,251 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:37,253 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:37,366 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:37,366 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:37,376 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:37,377 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:37,815 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:37,826 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:37,841 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:37,844 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:37,852 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:37,855 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:44,719 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:44,812 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:44,835 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:44,940 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:45,110 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:45,219 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:45,560 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:45,658 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:45,713 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:45,713 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:16:45,713 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:16:45,732 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:45,737 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:16:45,740 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:45,743 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:45,822 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:45,822 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:45,876 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:45,882 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:46,103 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:46,103 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:46,189 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:46,215 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:46,218 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:46,466 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:46,492 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:46,495 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:46,544 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:46,544 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:16:46,544 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:16:46,571 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:46,574 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:46,763 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:46,763 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:46,763 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:46,763 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:47,224 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:47,225 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:47,251 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:47,252 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:47,254 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:47,255 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:16:53,869 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:53,869 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:54,234 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:54,267 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 08:16:54,268 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 08:16:54,268 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:16:55,122 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:16:55,122 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:16:55,485 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:16:55,511 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:16:55,514 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:15,054 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:15,106 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:15,114 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:15,176 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:15,256 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:15,264 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:15,370 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:15,375 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:15,512 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:15,543 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:15,567 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:15,585 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:15,742 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:15,750 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:16,168 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:17:16,168 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:17:16,228 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:17:16,229 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:17:16,237 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:17:16,238 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:17:16,482 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:17:16,482 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:17:16,482 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:17:16,508 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:16,509 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:17:16,509 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:17:16,511 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:16,692 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:17:16,692 - room_booking_agent - INFO - API key starts with: dummy_key_for_testin...
+2025-07-24 08:17:16,692 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:17:16,692 - room_booking_agent - INFO - Initializing RoomBookingAgent - API key present: True
+2025-07-24 08:17:16,692 - room_booking_agent - INFO - API key starts with: sk-proj-ogxcLWbSsuZC...
+2025-07-24 08:17:16,713 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:16,721 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:16,724 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:16,739 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:16,742 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:16,781 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:16,782 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:16,809 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:16,809 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:16,812 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:16,812 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:16,991 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:17,018 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:17,021 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:17,108 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:17,135 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:17,138 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:21,726 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:21,817 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:22,158 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:22,234 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:22,413 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:22,448 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:22,517 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:22,520 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:22,546 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:22,595 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:22,684 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:22,707 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:22,712 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:17:22,857 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:17:23,101 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:23,127 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:23,130 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:23,151 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:17:23,178 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:23,182 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:23,436 - room_booking_agent - WARNING - OpenAI API key not configured - AI features disabled
+2025-07-24 08:17:23,463 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:23,466 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:24,001 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:24,028 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:24,031 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:24,127 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:24,150 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:24,153 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:24,156 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:24,175 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:24,178 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:24,226 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:24,253 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:17:24,256 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:17:29,127 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:17:35,133 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 08:17:35,141 - room_booking_agent - INFO - Processed user request: I need a conference room for 8 people tomorrow at 3 PM for 1 hour
+2025-07-24 08:19:27,363 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:19:27] "GET / HTTP/1.1" 200 -
+2025-07-24 08:19:27,412 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:19:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-24 08:19:27,413 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:19:27] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-24 08:19:37,563 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:19:37] "POST /api/login HTTP/1.1" 200 -
+2025-07-24 08:19:40,697 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:19:40] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:20:45,437 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:20:45,446 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:20:45,580 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:20:45,586 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:20:45,737 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:20:45,750 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:20:45,758 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:20:45,782 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:20:45,798 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:20:45,884 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:20:45,920 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:20:45,932 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:20:45,968 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:20:45,985 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:22:04,078 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:22:04,111 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-24 08:22:04,111 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-24 08:22:04,112 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:22:05,305 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:22:05,331 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:22:05,334 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:22:35,277 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:22:35,357 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:22:36,556 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:22:36,582 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:22:36,585 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:22:42,278 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\agent.py', reloading
+2025-07-24 08:22:42,364 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:22:43,582 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:22:43,610 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:22:43,613 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:22:50,990 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:22:50] "GET / HTTP/1.1" 200 -
+2025-07-24 08:22:51,039 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:22:51] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2025-07-24 08:22:51,039 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:22:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-07-24 08:23:01,725 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:23:01] "POST /api/login HTTP/1.1" 200 -
+2025-07-24 08:23:14,074 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 08:23:14,084 - room_booking_agent - INFO - Processed user request: i need a room in CBA for 50 students on Friday at 10am for exam review. The room needs a laptop projector and a whiteboard
+2025-07-24 08:23:14,084 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:23:14] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:23:20,533 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 08:23:20,537 - room_booking_agent - INFO - Processed user request: I need to book on room on wednesday for 6 faculty members somewhere in CBA. Conference room with a laptop projector
+2025-07-24 08:23:20,537 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:23:20] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:23:56,375 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-24 08:23:56,376 - room_booking_agent - INFO - Processed user request: i need a room in CBA for 50 students on Friday at 10am for exam review. The room needs a laptop projector and a whiteboard. It will be for 2 hours
+2025-07-24 08:23:56,376 - werkzeug - INFO - 127.0.0.1 - - [24/Jul/2025 08:23:56] "POST /api/chat HTTP/1.1" 200 -
+2025-07-24 08:44:04,705 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 08:44:04,807 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:44:06,045 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:44:06,072 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:44:06,075 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:44:10,649 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 08:44:10,746 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:44:12,264 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:44:12,290 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:44:12,293 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:44:19,059 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 08:44:19,144 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:44:20,691 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:44:20,721 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:44:20,724 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:44:38,281 - WDM - INFO - ====== WebDriver manager ======
+2025-07-24 08:44:38,700 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 08:44:38,872 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-07-24 08:44:38,958 - WDM - INFO - Driver downloading response is 200
+2025-07-24 08:44:39,429 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 08:44:39,796 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 08:44:40,111 - WDM - INFO - Driver has been saved in cache [C:\Users\akash\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-07-24 08:44:43,488 - room_booking_agent - ERROR - Login failed with exception: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 138.0.7204.159 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x004DA813+48355]
+	(No symbol) [0x0046C4B1]
+	(No symbol) [0x00375358]
+	(No symbol) [0x003961AC]
+	(No symbol) [0x00391EF3]
+	(No symbol) [0x00390579]
+	(No symbol) [0x003C0C55]
+	(No symbol) [0x003C093C]
+	(No symbol) [0x003BA536]
+	(No symbol) [0x003982DC]
+	(No symbol) [0x003993DD]
+	GetHandleVerifier [0x0073AABD+2539405]
+	GetHandleVerifier [0x0077A78F+2800735]
+	GetHandleVerifier [0x0077456C+2775612]
+	GetHandleVerifier [0x005651E0+616112]
+	(No symbol) [0x00475F8C]
+	(No symbol) [0x00472328]
+	(No symbol) [0x0047240B]
+	(No symbol) [0x00464FF7]
+	BaseThreadInitThunk [0x776AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A682AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A6827E+238]
+
+2025-07-24 08:44:50,578 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\test_login.py', reloading
+2025-07-24 08:44:50,676 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:44:52,198 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:44:52,227 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:44:52,230 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:45:04,514 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 08:45:04,619 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:45:06,116 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:45:06,143 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:45:06,146 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:45:08,779 - room_booking_agent - WARNING - Failed to use webdriver manager: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2025-07-24 08:45:10,678 - room_booking_agent - INFO - Chrome WebDriver initialized with webdriver manager
+2025-07-24 08:45:10,679 - room_booking_agent - INFO - Navigating to Momentus login: https://utexas.momentus.io/
+2025-07-24 08:45:11,122 - room_booking_agent - ERROR - Login failed with exception: Message: unknown error: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT
+  (Session info: chrome=138.0.7204.159)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff702a8e935+77845]
+	GetHandleVerifier [0x0x7ff702a8e990+77936]
+	(No symbol) [0x0x7ff702849cda]
+	(No symbol) [0x0x7ff702846a93]
+	(No symbol) [0x0x7ff702837899]
+	(No symbol) [0x0x7ff702839651]
+	(No symbol) [0x0x7ff702837bb6]
+	(No symbol) [0x0x7ff702837616]
+	(No symbol) [0x0x7ff7028372da]
+	(No symbol) [0x0x7ff702834eab]
+	(No symbol) [0x0x7ff70283572c]
+	(No symbol) [0x0x7ff70284dc8a]
+	(No symbol) [0x0x7ff7028f18be]
+	(No symbol) [0x0x7ff7028c88ca]
+	(No symbol) [0x0x7ff7028f0b07]
+	(No symbol) [0x0x7ff7028c86a3]
+	(No symbol) [0x0x7ff702891791]
+	(No symbol) [0x0x7ff702892523]
+	GetHandleVerifier [0x0x7ff702d6684d+3059501]
+	GetHandleVerifier [0x0x7ff702d60c0d+3035885]
+	GetHandleVerifier [0x0x7ff702d80400+3164896]
+	GetHandleVerifier [0x0x7ff702aa8c3e+185118]
+	GetHandleVerifier [0x0x7ff702ab054f+216111]
+	GetHandleVerifier [0x0x7ff702a972e4+113092]
+	GetHandleVerifier [0x0x7ff702a97499+113529]
+	GetHandleVerifier [0x0x7ff702a7e298+10616]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-24 08:45:13,196 - room_booking_agent - INFO - Browser driver closed
+2025-07-24 08:45:21,709 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 08:45:21,802 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:45:23,323 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:45:23,351 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:45:23,354 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:45:26,807 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\test_login.py', reloading
+2025-07-24 08:45:26,898 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:45:28,419 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:45:28,446 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:45:28,448 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:45:33,028 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\test_login.py', reloading
+2025-07-24 08:45:33,145 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:45:34,648 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:45:34,677 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:45:34,679 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:45:36,881 - room_booking_agent - WARNING - Failed to use webdriver manager: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2025-07-24 08:45:37,884 - room_booking_agent - INFO - Chrome WebDriver initialized with webdriver manager
+2025-07-24 08:45:37,884 - room_booking_agent - INFO - Navigating to Momentus login: https://utexas.momentus.io/
+2025-07-24 08:45:38,131 - room_booking_agent - ERROR - Login failed with exception: Message: unknown error: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT
+  (Session info: chrome=138.0.7204.159)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff702a8e935+77845]
+	GetHandleVerifier [0x0x7ff702a8e990+77936]
+	(No symbol) [0x0x7ff702849cda]
+	(No symbol) [0x0x7ff702846a93]
+	(No symbol) [0x0x7ff702837899]
+	(No symbol) [0x0x7ff702839651]
+	(No symbol) [0x0x7ff702837bb6]
+	(No symbol) [0x0x7ff702837616]
+	(No symbol) [0x0x7ff7028372da]
+	(No symbol) [0x0x7ff702834eab]
+	(No symbol) [0x0x7ff70283572c]
+	(No symbol) [0x0x7ff70284dc8a]
+	(No symbol) [0x0x7ff7028f18be]
+	(No symbol) [0x0x7ff7028c88ca]
+	(No symbol) [0x0x7ff7028f0b07]
+	(No symbol) [0x0x7ff7028c86a3]
+	(No symbol) [0x0x7ff702891791]
+	(No symbol) [0x0x7ff702892523]
+	GetHandleVerifier [0x0x7ff702d6684d+3059501]
+	GetHandleVerifier [0x0x7ff702d60c0d+3035885]
+	GetHandleVerifier [0x0x7ff702d80400+3164896]
+	GetHandleVerifier [0x0x7ff702aa8c3e+185118]
+	GetHandleVerifier [0x0x7ff702ab054f+216111]
+	GetHandleVerifier [0x0x7ff702a972e4+113092]
+	GetHandleVerifier [0x0x7ff702a97499+113529]
+	GetHandleVerifier [0x0x7ff702a7e298+10616]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-24 08:45:43,202 - room_booking_agent - INFO - Browser driver closed
+2025-07-24 08:45:52,436 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\test_login.py', reloading
+2025-07-24 08:45:52,551 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:45:54,059 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:45:54,086 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:45:54,089 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:45:57,601 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\test_login.py', reloading
+2025-07-24 08:45:57,685 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:45:59,137 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:45:59,163 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:45:59,166 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:46:01,106 - room_booking_agent - WARNING - Failed to use webdriver manager: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2025-07-24 08:46:02,143 - room_booking_agent - INFO - Chrome WebDriver initialized with webdriver manager
+2025-07-24 08:46:02,143 - room_booking_agent - INFO - Navigating to Momentus login: https://momentus.utexas.edu/
+2025-07-24 08:46:44,324 - room_booking_agent - ERROR - Login failed with exception: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=138.0.7204.159)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff702a8e935+77845]
+	GetHandleVerifier [0x0x7ff702a8e990+77936]
+	(No symbol) [0x0x7ff702849cda]
+	(No symbol) [0x0x7ff702846a93]
+	(No symbol) [0x0x7ff702837899]
+	(No symbol) [0x0x7ff702839651]
+	(No symbol) [0x0x7ff702837bb6]
+	(No symbol) [0x0x7ff702837616]
+	(No symbol) [0x0x7ff7028372da]
+	(No symbol) [0x0x7ff702834eab]
+	(No symbol) [0x0x7ff70283572c]
+	(No symbol) [0x0x7ff70284dc8a]
+	(No symbol) [0x0x7ff7028f18be]
+	(No symbol) [0x0x7ff7028c88ca]
+	(No symbol) [0x0x7ff7028f0b07]
+	(No symbol) [0x0x7ff7028c86a3]
+	(No symbol) [0x0x7ff702891791]
+	(No symbol) [0x0x7ff702892523]
+	GetHandleVerifier [0x0x7ff702d6684d+3059501]
+	GetHandleVerifier [0x0x7ff702d60c0d+3035885]
+	GetHandleVerifier [0x0x7ff702d80400+3164896]
+	GetHandleVerifier [0x0x7ff702aa8c3e+185118]
+	GetHandleVerifier [0x0x7ff702ab054f+216111]
+	GetHandleVerifier [0x0x7ff702a972e4+113092]
+	GetHandleVerifier [0x0x7ff702a97499+113529]
+	GetHandleVerifier [0x0x7ff702a7e298+10616]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-24 08:46:49,167 - room_booking_agent - WARNING - Failed to use webdriver manager: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2025-07-24 08:46:49,408 - room_booking_agent - INFO - Browser driver closed
+2025-07-24 08:46:50,186 - room_booking_agent - INFO - Chrome WebDriver initialized with webdriver manager
+2025-07-24 08:47:23,144 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\debug_page.py', reloading
+2025-07-24 08:47:23,229 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:47:24,712 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:47:24,739 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:47:24,741 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:47:35,896 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\debug_page.py', reloading
+2025-07-24 08:47:35,982 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:47:37,441 - room_booking_agent - INFO - Browser driver closed
+2025-07-24 08:47:37,451 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:47:37,478 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:47:37,481 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 08:47:39,285 - room_booking_agent - WARNING - Failed to use webdriver manager: ChromeDriverManager.__init__() got an unexpected keyword argument 'version'
+2025-07-24 08:47:40,316 - room_booking_agent - INFO - Chrome WebDriver initialized with webdriver manager
+2025-07-24 08:48:27,559 - room_booking_agent - INFO - Browser driver closed
+2025-07-24 08:59:48,856 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 08:59:48,941 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 08:59:50,485 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 08:59:50,513 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 08:59:50,515 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 09:00:04,978 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 09:00:05,096 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 09:00:06,645 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 09:00:06,672 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 09:00:06,675 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 09:00:31,071 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 09:00:31,166 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 09:00:32,635 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 09:00:32,661 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 09:00:32,663 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 09:00:55,928 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-24 09:00:56,011 - werkzeug - INFO -  * Restarting with stat
+2025-07-24 09:00:57,491 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-24 09:00:57,518 - werkzeug - WARNING -  * Debugger is active!
+2025-07-24 09:00:57,520 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-24 09:09:06,830 - room_booking_agent - INFO - Connecting to existing Chrome session on port 9222
+2025-07-24 09:09:06,831 - WDM - INFO - ====== WebDriver manager ======
+2025-07-24 09:09:07,413 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:09:07,547 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:09:07,584 - WDM - INFO - There is no [win64] chromedriver "138.0.7204.168" for browser google-chrome "138.0.7204" in cache
+2025-07-24 09:09:07,585 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:09:07,671 - WDM - INFO - WebDriver version 138.0.7204.168 selected
+2025-07-24 09:09:07,675 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.168/win32/chromedriver-win32.zip
+2025-07-24 09:09:07,675 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.168/win32/chromedriver-win32.zip
+2025-07-24 09:09:07,770 - WDM - INFO - Driver downloading response is 200
+2025-07-24 09:09:08,126 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:09:16,581 - WDM - INFO - Driver has been saved in cache [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.168]
+2025-07-24 09:10:19,549 - room_booking_agent - WARNING - Failed to use webdriver manager: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x871af3+62339]
+	GetHandleVerifier [0x0x871b34+62404]
+	(No symbol) [0x0x6b1f80]
+	(No symbol) [0x0x6a5f2a]
+	(No symbol) [0x0x6eadc6]
+	(No symbol) [0x0x6e128f]
+	(No symbol) [0x0x6e10c6]
+	(No symbol) [0x0x72ae77]
+	(No symbol) [0x0x72a76a]
+	(No symbol) [0x0x71f1b6]
+	(No symbol) [0x0x6ee7a2]
+	(No symbol) [0x0x6ef644]
+	GetHandleVerifier [0x0xae6683+2637587]
+	GetHandleVerifier [0x0xae1a8a+2618138]
+	GetHandleVerifier [0x0x89856a+220666]
+	GetHandleVerifier [0x0x888998+156200]
+	GetHandleVerifier [0x0x88f12d+182717]
+	GetHandleVerifier [0x0x879a38+94920]
+	GetHandleVerifier [0x0x879bc2+95314]
+	GetHandleVerifier [0x0x864d0a+9626]
+	BaseThreadInitThunk [0x0x776afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+2025-07-24 09:11:22,300 - room_booking_agent - ERROR - Failed to initialize Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff702a8e935+77845]
+	GetHandleVerifier [0x0x7ff702a8e990+77936]
+	(No symbol) [0x0x7ff702849b0c]
+	(No symbol) [0x0x7ff70283adc1]
+	(No symbol) [0x0x7ff70288d332]
+	(No symbol) [0x0x7ff702882109]
+	(No symbol) [0x0x7ff7028d62ce]
+	(No symbol) [0x0x7ff7028d5a60]
+	(No symbol) [0x0x7ff7028c86a3]
+	(No symbol) [0x0x7ff702891791]
+	(No symbol) [0x0x7ff702892523]
+	GetHandleVerifier [0x0x7ff702d6684d+3059501]
+	GetHandleVerifier [0x0x7ff702d60c0d+3035885]
+	GetHandleVerifier [0x0x7ff702d80400+3164896]
+	GetHandleVerifier [0x0x7ff702aa8c3e+185118]
+	GetHandleVerifier [0x0x7ff702ab054f+216111]
+	GetHandleVerifier [0x0x7ff702a972e4+113092]
+	GetHandleVerifier [0x0x7ff702a97499+113529]
+	GetHandleVerifier [0x0x7ff702a7e298+10616]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-24 09:15:40,010 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\test_session_automation.py', reloading
+2025-07-24 09:15:43,330 - room_booking_agent - INFO - Connecting to existing Chrome session on port 9222
+2025-07-24 09:15:43,330 - WDM - INFO - ====== WebDriver manager ======
+2025-07-24 09:15:43,734 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:15:43,849 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-07-24 09:15:44,001 - WDM - INFO - Driver downloading response is 200
+2025-07-24 09:15:44,517 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:15:44,905 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:15:45,172 - WDM - INFO - Driver has been saved in cache [C:\Users\akash\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-07-24 09:16:48,423 - room_booking_agent - WARNING - Failed to use webdriver manager: Message: unknown error: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C3A813+48355]
+	(No symbol) [0x00BCC4B1]
+	(No symbol) [0x00AD5220]
+	(No symbol) [0x00ACB355]
+	(No symbol) [0x00AF5C68]
+	(No symbol) [0x00AF06B4]
+	(No symbol) [0x00AF0491]
+	(No symbol) [0x00B20C55]
+	(No symbol) [0x00B2093C]
+	(No symbol) [0x00B1A536]
+	(No symbol) [0x00AF82DC]
+	(No symbol) [0x00AF93DD]
+	GetHandleVerifier [0x00E9AABD+2539405]
+	GetHandleVerifier [0x00EDA78F+2800735]
+	GetHandleVerifier [0x00ED456C+2775612]
+	GetHandleVerifier [0x00CC51E0+616112]
+	(No symbol) [0x00BD5F8C]
+	(No symbol) [0x00BD2328]
+	(No symbol) [0x00BD240B]
+	(No symbol) [0x00BC4FF7]
+	BaseThreadInitThunk [0x776AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A682AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A6827E+238]
+
+2025-07-24 09:17:51,372 - room_booking_agent - ERROR - Failed to initialize Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff702a8e935+77845]
+	GetHandleVerifier [0x0x7ff702a8e990+77936]
+	(No symbol) [0x0x7ff702849b0c]
+	(No symbol) [0x0x7ff70283adc1]
+	(No symbol) [0x0x7ff70288d332]
+	(No symbol) [0x0x7ff702882109]
+	(No symbol) [0x0x7ff7028d62ce]
+	(No symbol) [0x0x7ff7028d5a60]
+	(No symbol) [0x0x7ff7028c86a3]
+	(No symbol) [0x0x7ff702891791]
+	(No symbol) [0x0x7ff702892523]
+	GetHandleVerifier [0x0x7ff702d6684d+3059501]
+	GetHandleVerifier [0x0x7ff702d60c0d+3035885]
+	GetHandleVerifier [0x0x7ff702d80400+3164896]
+	GetHandleVerifier [0x0x7ff702aa8c3e+185118]
+	GetHandleVerifier [0x0x7ff702ab054f+216111]
+	GetHandleVerifier [0x0x7ff702a972e4+113092]
+	GetHandleVerifier [0x0x7ff702a97499+113529]
+	GetHandleVerifier [0x0x7ff702a7e298+10616]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-24 09:23:27,375 - room_booking_agent - INFO - Connecting to existing Chrome session on port 9222
+2025-07-24 09:23:27,375 - WDM - INFO - ====== WebDriver manager ======
+2025-07-24 09:23:27,771 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:23:27,881 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-07-24 09:23:28,067 - WDM - INFO - Driver downloading response is 200
+2025-07-24 09:23:28,604 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:23:29,020 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-24 09:23:29,361 - WDM - INFO - Driver has been saved in cache [C:\Users\akash\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-07-24 09:23:32,242 - room_booking_agent - WARNING - Failed to use webdriver manager: Message: unknown error: cannot connect to chrome at 127.0.0.1:9222
+from session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 138.0.7204.159
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x011AA813+48355]
+	(No symbol) [0x0113C4B1]
+	(No symbol) [0x01045358]
+	(No symbol) [0x010661AC]
+	(No symbol) [0x010606B4]
+	(No symbol) [0x01060491]
+	(No symbol) [0x01090C55]
+	(No symbol) [0x0109093C]
+	(No symbol) [0x0108A536]
+	(No symbol) [0x010682DC]
+	(No symbol) [0x010693DD]
+	GetHandleVerifier [0x0140AABD+2539405]
+	GetHandleVerifier [0x0144A78F+2800735]
+	GetHandleVerifier [0x0144456C+2775612]
+	GetHandleVerifier [0x012351E0+616112]
+	(No symbol) [0x01145F8C]
+	(No symbol) [0x01142328]
+	(No symbol) [0x0114240B]
+	(No symbol) [0x01134FF7]
+	BaseThreadInitThunk [0x776AFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A682AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A6827E+238]
+
+2025-07-24 09:23:32,861 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-07-24 09:23:32,868 - room_booking_agent - INFO - Current page title: Texas McCombs Finance Department Dashboard - Home
+2025-07-24 09:23:32,869 - room_booking_agent - INFO - Current URL: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx
+2025-07-24 09:23:32,914 - room_booking_agent - WARNING - No room reservation link found, trying common URL patterns
+2025-07-24 09:23:32,917 - room_booking_agent - INFO - Trying URL: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx/reservations
+2025-07-24 09:23:36,380 - room_booking_agent - INFO - Successfully accessed: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx/reservations
+2025-07-24 09:23:36,384 - room_booking_agent - INFO - Current page title: Texas McCombs Finance Department Dashboard - Home
+2025-07-24 09:23:36,385 - room_booking_agent - INFO - Current URL: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx/reservations
+2025-07-24 09:23:36,412 - room_booking_agent - WARNING - No room reservation link found, trying common URL patterns
+2025-07-24 09:23:36,414 - room_booking_agent - INFO - Trying URL: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx/reservations/reservations
+2025-07-24 09:23:39,769 - room_booking_agent - INFO - Successfully accessed: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx/reservations/reservations
+2025-07-24 09:23:39,770 - room_booking_agent - INFO - Filling search form with criteria: {'date': '2025-01-27', 'start_time': '14:00', 'end_time': '16:00', 'capacity': 10, 'location': 'ETC', 'equipment': ['projector']}
+2025-07-24 09:23:39,795 - room_booking_agent - WARNING - Could not find date field
+2025-07-24 09:23:39,825 - room_booking_agent - WARNING - Could not find start time field
+2025-07-24 09:23:39,855 - room_booking_agent - WARNING - Could not find end time field
+2025-07-24 09:23:39,884 - room_booking_agent - WARNING - Could not find capacity field
+2025-07-24 09:23:39,913 - room_booking_agent - WARNING - Could not find location field
+2025-07-24 09:23:39,929 - room_booking_agent - WARNING - Could not find checkbox for equipment: projector
+2025-07-24 09:23:39,960 - room_booking_agent - ERROR - Could not find search button
+2025-07-30 08:05:56,947 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 08:05:57,080 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.65:5000
+2025-07-30 08:05:57,080 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 08:05:57,082 - werkzeug - INFO -  * Restarting with stat
+2025-07-30 08:05:58,539 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 08:05:58,565 - werkzeug - WARNING -  * Debugger is active!
+2025-07-30 08:05:58,608 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-30 08:25:57,043 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-30 08:25:57,151 - werkzeug - INFO -  * Restarting with stat
+2025-07-30 08:25:58,740 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 08:25:58,767 - werkzeug - WARNING -  * Debugger is active!
+2025-07-30 08:25:58,770 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-30 08:26:24,277 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-30 08:26:24,357 - werkzeug - INFO -  * Restarting with stat
+2025-07-30 08:26:25,874 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 08:26:25,900 - werkzeug - WARNING -  * Debugger is active!
+2025-07-30 08:26:25,903 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-30 08:27:13,476 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\app\\browser_automation.py', reloading
+2025-07-30 08:27:13,572 - werkzeug - INFO -  * Restarting with stat
+2025-07-30 08:27:15,087 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 08:27:15,113 - werkzeug - WARNING -  * Debugger is active!
+2025-07-30 08:27:15,116 - werkzeug - INFO -  * Debugger PIN: 738-330-887
+2025-07-30 08:33:23,165 - room_booking_agent - INFO - Connecting to existing Chrome session on port 9222
+2025-07-30 08:33:23,165 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 08:33:23,926 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 08:33:24,206 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 08:33:24,241 - WDM - INFO - There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-07-30 08:33:24,241 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 08:33:24,328 - WDM - INFO - WebDriver version 138.0.7204.183 selected
+2025-07-30 08:33:24,331 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-30 08:33:24,331 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-07-30 08:33:24,431 - WDM - INFO - Driver downloading response is 200
+2025-07-30 08:33:24,787 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 08:33:25,749 - WDM - INFO - Driver has been saved in cache [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+2025-07-30 08:34:29,524 - room_booking_agent - WARNING - Failed to use webdriver manager: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x117ba83+63395]
+	GetHandleVerifier [0x0x117bac4+63460]
+	(No symbol) [0x0xfc1f70]
+	(No symbol) [0x0xfb5f1a]
+	(No symbol) [0x0xffadd6]
+	(No symbol) [0x0xff128f]
+	(No symbol) [0x0xff10c6]
+	(No symbol) [0x0x103ae57]
+	(No symbol) [0x0x103a74a]
+	(No symbol) [0x0x102f1a6]
+	(No symbol) [0x0xffe7b2]
+	(No symbol) [0x0xfff654]
+	GetHandleVerifier [0x0x13f8883+2672035]
+	GetHandleVerifier [0x0x13f3cba+2652634]
+	GetHandleVerifier [0x0x11a2bca+223466]
+	GetHandleVerifier [0x0x1192cb8+158168]
+	GetHandleVerifier [0x0x119978d+185517]
+	GetHandleVerifier [0x0x1183b78+96408]
+	GetHandleVerifier [0x0x1183d02+96802]
+	GetHandleVerifier [0x0x116e90a+9770]
+	BaseThreadInitThunk [0x0x776afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+2025-07-30 08:35:33,353 - room_booking_agent - ERROR - Failed to initialize Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6e4b6e415+77285]
+	GetHandleVerifier [0x0x7ff6e4b6e470+77376]
+	(No symbol) [0x0x7ff6e493989c]
+	(No symbol) [0x0x7ff6e492ab71]
+	(No symbol) [0x0x7ff6e497d0c2]
+	(No symbol) [0x0x7ff6e4971eb9]
+	(No symbol) [0x0x7ff6e49c602e]
+	(No symbol) [0x0x7ff6e49c57c0]
+	(No symbol) [0x0x7ff6e49b83e3]
+	(No symbol) [0x0x7ff6e4981521]
+	(No symbol) [0x0x7ff6e49822b3]
+	GetHandleVerifier [0x0x7ff6e4e51efd+3107021]
+	GetHandleVerifier [0x0x7ff6e4e4c29d+3083373]
+	GetHandleVerifier [0x0x7ff6e4e6bedd+3213485]
+	GetHandleVerifier [0x0x7ff6e4b8884e+184862]
+	GetHandleVerifier [0x0x7ff6e4b9055f+216879]
+	GetHandleVerifier [0x0x7ff6e4b77084+113236]
+	GetHandleVerifier [0x0x7ff6e4b77239+113673]
+	GetHandleVerifier [0x0x7ff6e4b5e298+11368]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-30 08:55:58,797 - room_booking_agent - INFO - Connecting to existing Chrome session on port 9222
+2025-07-30 08:55:58,798 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 08:55:59,283 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 08:55:59,326 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 08:55:59,371 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 08:57:02,185 - room_booking_agent - WARNING - Failed to use webdriver manager: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x117ba83+63395]
+	GetHandleVerifier [0x0x117bac4+63460]
+	(No symbol) [0x0xfc1f70]
+	(No symbol) [0x0xfb5f1a]
+	(No symbol) [0x0xffadd6]
+	(No symbol) [0x0xff128f]
+	(No symbol) [0x0xff10c6]
+	(No symbol) [0x0x103ae57]
+	(No symbol) [0x0x103a74a]
+	(No symbol) [0x0x102f1a6]
+	(No symbol) [0x0xffe7b2]
+	(No symbol) [0x0xfff654]
+	GetHandleVerifier [0x0x13f8883+2672035]
+	GetHandleVerifier [0x0x13f3cba+2652634]
+	GetHandleVerifier [0x0x11a2bca+223466]
+	GetHandleVerifier [0x0x1192cb8+158168]
+	GetHandleVerifier [0x0x119978d+185517]
+	GetHandleVerifier [0x0x1183b78+96408]
+	GetHandleVerifier [0x0x1183d02+96802]
+	GetHandleVerifier [0x0x116e90a+9770]
+	BaseThreadInitThunk [0x0x776afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+2025-07-30 08:58:05,086 - room_booking_agent - ERROR - Failed to initialize Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6e4b6e415+77285]
+	GetHandleVerifier [0x0x7ff6e4b6e470+77376]
+	(No symbol) [0x0x7ff6e493989c]
+	(No symbol) [0x0x7ff6e492ab71]
+	(No symbol) [0x0x7ff6e497d0c2]
+	(No symbol) [0x0x7ff6e4971eb9]
+	(No symbol) [0x0x7ff6e49c602e]
+	(No symbol) [0x0x7ff6e49c57c0]
+	(No symbol) [0x0x7ff6e49b83e3]
+	(No symbol) [0x0x7ff6e4981521]
+	(No symbol) [0x0x7ff6e49822b3]
+	GetHandleVerifier [0x0x7ff6e4e51efd+3107021]
+	GetHandleVerifier [0x0x7ff6e4e4c29d+3083373]
+	GetHandleVerifier [0x0x7ff6e4e6bedd+3213485]
+	GetHandleVerifier [0x0x7ff6e4b8884e+184862]
+	GetHandleVerifier [0x0x7ff6e4b9055f+216879]
+	GetHandleVerifier [0x0x7ff6e4b77084+113236]
+	GetHandleVerifier [0x0x7ff6e4b77239+113673]
+	GetHandleVerifier [0x0x7ff6e4b5e298+11368]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-30 09:01:31,305 - werkzeug - INFO -  * Detected change in 'C:\\Coding\\room-booking-agent\\test_login.py', reloading
+2025-07-30 09:03:30,277 - room_booking_agent - INFO - Connecting to existing Chrome session on port 9222
+2025-07-30 09:03:30,277 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 09:03:30,773 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:03:30,812 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:03:30,856 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 09:04:33,697 - room_booking_agent - WARNING - Failed to use webdriver manager: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x117ba83+63395]
+	GetHandleVerifier [0x0x117bac4+63460]
+	(No symbol) [0x0xfc1f70]
+	(No symbol) [0x0xfb5f1a]
+	(No symbol) [0x0xffadd6]
+	(No symbol) [0x0xff128f]
+	(No symbol) [0x0xff10c6]
+	(No symbol) [0x0x103ae57]
+	(No symbol) [0x0x103a74a]
+	(No symbol) [0x0x102f1a6]
+	(No symbol) [0x0xffe7b2]
+	(No symbol) [0x0xfff654]
+	GetHandleVerifier [0x0x13f8883+2672035]
+	GetHandleVerifier [0x0x13f3cba+2652634]
+	GetHandleVerifier [0x0x11a2bca+223466]
+	GetHandleVerifier [0x0x1192cb8+158168]
+	GetHandleVerifier [0x0x119978d+185517]
+	GetHandleVerifier [0x0x1183b78+96408]
+	GetHandleVerifier [0x0x1183d02+96802]
+	GetHandleVerifier [0x0x116e90a+9770]
+	BaseThreadInitThunk [0x0x776afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a6827e+238]
+
+2025-07-30 09:05:36,683 - room_booking_agent - ERROR - Failed to initialize Chrome driver: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6e4b6e415+77285]
+	GetHandleVerifier [0x0x7ff6e4b6e470+77376]
+	(No symbol) [0x0x7ff6e493989c]
+	(No symbol) [0x0x7ff6e492ab71]
+	(No symbol) [0x0x7ff6e497d0c2]
+	(No symbol) [0x0x7ff6e4971eb9]
+	(No symbol) [0x0x7ff6e49c602e]
+	(No symbol) [0x0x7ff6e49c57c0]
+	(No symbol) [0x0x7ff6e49b83e3]
+	(No symbol) [0x0x7ff6e4981521]
+	(No symbol) [0x0x7ff6e49822b3]
+	GetHandleVerifier [0x0x7ff6e4e51efd+3107021]
+	GetHandleVerifier [0x0x7ff6e4e4c29d+3083373]
+	GetHandleVerifier [0x0x7ff6e4e6bedd+3213485]
+	GetHandleVerifier [0x0x7ff6e4b8884e+184862]
+	GetHandleVerifier [0x0x7ff6e4b9055f+216879]
+	GetHandleVerifier [0x0x7ff6e4b77084+113236]
+	GetHandleVerifier [0x0x7ff6e4b77239+113673]
+	GetHandleVerifier [0x0x7ff6e4b5e298+11368]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-30 09:05:36,689 - room_booking_agent - ERROR - Login failed with exception: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6e4b6e415+77285]
+	GetHandleVerifier [0x0x7ff6e4b6e470+77376]
+	(No symbol) [0x0x7ff6e493989c]
+	(No symbol) [0x0x7ff6e492ab71]
+	(No symbol) [0x0x7ff6e497d0c2]
+	(No symbol) [0x0x7ff6e4971eb9]
+	(No symbol) [0x0x7ff6e49c602e]
+	(No symbol) [0x0x7ff6e49c57c0]
+	(No symbol) [0x0x7ff6e49b83e3]
+	(No symbol) [0x0x7ff6e4981521]
+	(No symbol) [0x0x7ff6e49822b3]
+	GetHandleVerifier [0x0x7ff6e4e51efd+3107021]
+	GetHandleVerifier [0x0x7ff6e4e4c29d+3083373]
+	GetHandleVerifier [0x0x7ff6e4e6bedd+3213485]
+	GetHandleVerifier [0x0x7ff6e4b8884e+184862]
+	GetHandleVerifier [0x0x7ff6e4b9055f+216879]
+	GetHandleVerifier [0x0x7ff6e4b77084+113236]
+	GetHandleVerifier [0x0x7ff6e4b77239+113673]
+	GetHandleVerifier [0x0x7ff6e4b5e298+11368]
+	BaseThreadInitThunk [0x0x7ffcd9f17374+20]
+	RtlUserThreadStart [0x0x7ffcdbcfcc91+33]
+
+2025-07-30 09:09:16,899 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 09:09:17,393 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:09:17,464 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:09:17,502 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 09:09:18,882 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-07-30 09:10:26,630 - room_booking_agent - INFO - Current page title: Texas McCombs Finance Department Dashboard - Home
+2025-07-30 09:10:26,631 - room_booking_agent - INFO - Current URL: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx
+2025-07-30 09:10:26,632 - room_booking_agent - INFO - Searching for room reservation links...
+2025-07-30 09:10:26,808 - room_booking_agent - INFO - Found potential room link (score 8): 'ROOM RESERVATIONS' -> https://utaus.gomomentus.io/SamlSSO/?OrgCode=60&CC=4&AppCode=OSR&AuthApp=OSB
+2025-07-30 09:10:26,817 - room_booking_agent - INFO - Found 2 potential links:
+2025-07-30 09:10:26,817 - room_booking_agent - INFO -   - 'ROOM RESERVATIONS' -> https://utaus.gomomentus.io/SamlSSO/?OrgCode=60&CC=4&AppCode=OSR&AuthApp=OSB
+2025-07-30 09:10:26,817 - room_booking_agent - INFO -   - 'Momentus' -> https://utaus.gomomentus.io/SamlSSO/?OrgCode=60&CC=4&AppCode=OSR&AuthApp=OSB
+2025-07-30 09:10:29,841 - room_booking_agent - INFO - Clicking room reservation link: 'ROOM RESERVATIONS'
+2025-07-30 09:10:32,906 - room_booking_agent - INFO - New window/tab detected, switching to it
+2025-07-30 09:10:37,915 - room_booking_agent - INFO - After click - Title: Sign in with your UT EID
+2025-07-30 09:10:37,915 - room_booking_agent - INFO - After click - URL: https://enterprise.login.utexas.edu/idp/profile/SAML2/POST/SSO?execution=e1s2
+2025-07-30 09:10:37,915 - room_booking_agent - INFO - Navigated to new page, checking if it leads to Momentus...
+2025-07-30 09:10:37,947 - room_booking_agent - INFO - Found Momentus entry point: 'Web Accessibility Policy' with selector: //a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'access')]
+2025-07-30 09:10:37,948 - room_booking_agent - INFO - Found Momentus entry point, clicking...
+2025-07-30 09:10:43,458 - room_booking_agent - INFO - === ANALYZING MOMENTUS PAGE ===
+2025-07-30 09:10:43,461 - room_booking_agent - INFO - Page Title: Home | Enterprise Technology
+2025-07-30 09:10:43,461 - room_booking_agent - INFO - Page URL: https://tech.utexas.edu/
+2025-07-30 09:10:43,467 - room_booking_agent - INFO - Found 1 forms
+2025-07-30 09:10:43,479 - room_booking_agent - INFO -   Form 0: ID='search-block-form', Class='', Action='https://tech.utexas.edu/search/google'
+2025-07-30 09:10:43,485 - room_booking_agent - INFO - Found 2 input fields
+2025-07-30 09:10:43,500 - room_booking_agent - INFO -   Input 0: Type='search', Name='keys', ID='edit-keys', Placeholder='Search the site...'
+2025-07-30 09:10:43,514 - room_booking_agent - INFO -   Input 1: Type='submit', Name='', ID='edit-submit', Placeholder=''
+2025-07-30 09:10:43,520 - room_booking_agent - INFO - Found 0 select dropdowns
+2025-07-30 09:10:43,525 - room_booking_agent - INFO - Found 1 buttons
+2025-07-30 09:10:43,539 - room_booking_agent - INFO -   Button 0: Text='', Type='submit', ID='js-nav-toggle'
+2025-07-30 09:10:43,906 - room_booking_agent - INFO - Found 0 relevant links
+2025-07-30 09:10:43,906 - room_booking_agent - INFO - === LOOKING FOR MOMENTUS-SPECIFIC ELEMENTS ===
+2025-07-30 09:10:43,916 - room_booking_agent - INFO - Found 8 calendar/date elements
+2025-07-30 09:10:43,928 - room_booking_agent - INFO - Found 4 time elements
+2025-07-30 09:10:43,928 - room_booking_agent - INFO - === PAGE ANALYSIS COMPLETE ===
+2025-07-30 09:11:16,272 - room_booking_agent - INFO - Browser driver closed
+2025-07-30 09:19:42,103 - room_booking_agent - INFO - Connecting to existing Chrome session on port 9222
+2025-07-30 09:19:42,104 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 09:19:42,626 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:19:42,682 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:19:42,721 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 09:23:26,396 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 09:23:26,879 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:23:26,927 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:23:26,983 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 09:23:28,002 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-07-30 09:24:54,516 - room_booking_agent - INFO - === ANALYZING MOMENTUS PAGE ===
+2025-07-30 09:24:54,519 - room_booking_agent - INFO - Page Title: Search - McCombs School of Business
+2025-07-30 09:24:54,519 - room_booking_agent - INFO - Page URL: https://utaus.ungerboeck.net/Apps/OSR/
+2025-07-30 09:24:54,525 - room_booking_agent - INFO - Found 1 forms
+2025-07-30 09:24:54,536 - room_booking_agent - INFO -   Form 0: ID='', Class='ng-untouched ng-pristine ng-invalid', Action='https://utaus.ungerboeck.net/Apps/OSR/'
+2025-07-30 09:24:54,542 - room_booking_agent - INFO - Found 6 input fields
+2025-07-30 09:24:54,556 - room_booking_agent - INFO -   Input 0: Type='text', Name='', ID='searchDatePicker', Placeholder=''
+2025-07-30 09:24:54,569 - room_booking_agent - INFO -   Input 1: Type='number', Name='', ID='mat-input-5', Placeholder=''
+2025-07-30 09:24:54,581 - room_booking_agent - INFO -   Input 2: Type='number', Name='', ID='mat-input-8', Placeholder=''
+2025-07-30 09:24:54,593 - room_booking_agent - INFO -   Input 3: Type='text', Name='', ID='mat-input-10', Placeholder=''
+2025-07-30 09:24:54,605 - room_booking_agent - INFO -   Input 4: Type='text', Name='', ID='mat-input-11', Placeholder=''
+2025-07-30 09:24:54,616 - room_booking_agent - INFO -   Input 5: Type='text', Name='', ID='mat-input-9', Placeholder=''
+2025-07-30 09:24:54,623 - room_booking_agent - INFO - Found 0 select dropdowns
+2025-07-30 09:24:54,630 - room_booking_agent - INFO - Found 27 buttons
+2025-07-30 09:24:54,647 - room_booking_agent - INFO -   Button 0: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,659 - room_booking_agent - INFO -   Button 1: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,671 - room_booking_agent - INFO -   Button 2: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,682 - room_booking_agent - INFO -   Button 3: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,696 - room_booking_agent - INFO -   Button 4: Text='Akash M Kanojia', Type='submit', ID='accountdropdown'
+2025-07-30 09:24:54,708 - room_booking_agent - INFO -   Button 5: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,720 - room_booking_agent - INFO -   Button 6: Text='Shopping Cart
+zero items in cart', Type='submit', ID=''
+2025-07-30 09:24:54,731 - room_booking_agent - INFO -   Button 7: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,744 - room_booking_agent - INFO -   Button 8: Text='', Type='button', ID=''
+2025-07-30 09:24:54,756 - room_booking_agent - INFO -   Button 9: Text='Search', Type='button', ID=''
+2025-07-30 09:24:54,767 - room_booking_agent - INFO -   Button 10: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,779 - room_booking_agent - INFO -   Button 11: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,790 - room_booking_agent - INFO -   Button 12: Text='', Type='submit', ID=''
+2025-07-30 09:24:54,803 - room_booking_agent - INFO -   Button 13: Text='Scroll to previous month', Type='submit', ID=''
+2025-07-30 09:24:54,815 - room_booking_agent - INFO -   Button 14: Text='Scroll to the next month', Type='submit', ID=''
+2025-07-30 09:24:54,851 - room_booking_agent - INFO - Found 2 relevant links
+2025-07-30 09:24:54,852 - room_booking_agent - INFO -   Link: 'Contact Department Administrator' -> mailto:frontdeskreservations@mccombs.utexas.edu
+2025-07-30 09:24:54,852 - room_booking_agent - INFO -   Link: 'Space Booking' -> https://utaus.ungerboeck.net/Apps/OSR/search
+2025-07-30 09:24:54,852 - room_booking_agent - INFO - === LOOKING FOR MOMENTUS-SPECIFIC ELEMENTS ===
+2025-07-30 09:24:54,871 - room_booking_agent - INFO - Found 221 calendar/date elements
+2025-07-30 09:24:54,882 - room_booking_agent - INFO - Found 65 room/space elements
+2025-07-30 09:24:54,891 - room_booking_agent - INFO - Found 2 time elements
+2025-07-30 09:24:54,892 - room_booking_agent - INFO - === PAGE ANALYSIS COMPLETE ===
+2025-07-30 09:25:47,366 - room_booking_agent - INFO - Not in Momentus system, navigating...
+2025-07-30 09:25:47,367 - room_booking_agent - INFO - Current page title: Search - McCombs School of Business
+2025-07-30 09:25:47,369 - room_booking_agent - INFO - Current URL: https://utaus.ungerboeck.net/Apps/OSR/
+2025-07-30 09:25:47,369 - room_booking_agent - INFO - Searching for room reservation links...
+2025-07-30 09:25:47,440 - room_booking_agent - INFO - Found potential room link (score 1): 'Space Booking' -> https://utaus.ungerboeck.net/Apps/OSR/search
+2025-07-30 09:25:47,499 - room_booking_agent - INFO - Found 2 potential links:
+2025-07-30 09:25:47,500 - room_booking_agent - INFO -   - 'Space Booking' -> https://utaus.ungerboeck.net/Apps/OSR/search
+2025-07-30 09:25:47,500 - room_booking_agent - INFO -   - 'Contact Department Administrator' -> mailto:frontdeskreservations@mccombs.utexas.edu
+2025-07-30 09:25:50,531 - room_booking_agent - INFO - Clicking room reservation link: 'Space Booking'
+2025-07-30 09:25:53,577 - room_booking_agent - INFO - New window/tab detected, switching to it
+2025-07-30 09:25:58,603 - room_booking_agent - INFO - After click - Title: Texas McCombs Finance Department Dashboard - Home
+2025-07-30 09:25:58,604 - room_booking_agent - INFO - After click - URL: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx
+2025-07-30 09:25:58,604 - room_booking_agent - INFO - Navigated to new page, checking if it leads to Momentus...
+2025-07-30 09:25:58,656 - room_booking_agent - INFO - Found Momentus entry point: 'ROOM RESERVATIONS' with selector: //a[contains(@href, 'momentus')]
+2025-07-30 09:25:58,656 - room_booking_agent - INFO - Found Momentus entry point, clicking...
+2025-07-30 09:26:03,705 - room_booking_agent - INFO - Analyzing Momentus booking interface...
+2025-07-30 09:26:03,705 - room_booking_agent - INFO - === ANALYZING MOMENTUS PAGE ===
+2025-07-30 09:26:03,708 - room_booking_agent - INFO - Page Title: Texas McCombs Finance Department Dashboard - Home
+2025-07-30 09:26:03,708 - room_booking_agent - INFO - Page URL: https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx
+2025-07-30 09:26:03,714 - room_booking_agent - INFO - Found 1 forms
+2025-07-30 09:26:03,725 - room_booking_agent - INFO -   Form 0: ID='', Class='ms-suiteux-search-box lvhFlNJw8Y0SIHvjQVnl0w== WmiG6T+pssuBAHHa0raLDQ== o365sx-searchBoxInactive', Action='https://utexas.sharepoint.com/sites/McCombs-DepartmentofFinance/SitePages/CollabHome.aspx'
+2025-07-30 09:26:03,731 - room_booking_agent - INFO - Found 1 input fields
+2025-07-30 09:26:03,747 - room_booking_agent - INFO -   Input 0: Type='search', Name='', ID='', Placeholder='Search this site'
+2025-07-30 09:26:03,753 - room_booking_agent - INFO - Found 0 select dropdowns
+2025-07-30 09:26:03,760 - room_booking_agent - INFO - Found 18 buttons
+2025-07-30 09:26:03,774 - room_booking_agent - INFO -   Button 0: Text='', Type='button', ID='O365_MainLink_NavMenu'
+2025-07-30 09:26:03,843 - room_booking_agent - INFO -   Button 3: Text='', Type='button', ID='O365_MainLink_Settings'
+2025-07-30 09:26:03,855 - room_booking_agent - INFO -   Button 4: Text='', Type='button', ID='O365_MainLink_Help'
+2025-07-30 09:26:03,868 - room_booking_agent - INFO -   Button 5: Text='Kanojia, Akash M
+AK', Type='button', ID='O365_MainLink_Me'
+2025-07-30 09:26:03,896 - room_booking_agent - INFO -   Button 7: Text='Edit', Type='submit', ID='HorizontalNav0EditLink'
+2025-07-30 09:26:03,973 - room_booking_agent - INFO -   Button 12: Text='Preview', Type='button', ID=''
+2025-07-30 09:26:04,006 - room_booking_agent - INFO -   Button 14: Text='Published 7/28/2025', Type='button', ID=''
+2025-07-30 09:26:04,405 - room_booking_agent - INFO - Found 1 relevant links
+2025-07-30 09:26:04,405 - room_booking_agent - INFO -   Link: 'ROOM RESERVATIONS' -> https://utaus.gomomentus.io/SamlSSO/?OrgCode=60&CC=4&AppCode=OSR&AuthApp=OSB
+2025-07-30 09:26:04,405 - room_booking_agent - INFO - === LOOKING FOR MOMENTUS-SPECIFIC ELEMENTS ===
+2025-07-30 09:26:04,425 - room_booking_agent - INFO - Found 3 room/space elements
+2025-07-30 09:26:04,434 - room_booking_agent - INFO - === PAGE ANALYSIS COMPLETE ===
+2025-07-30 09:26:04,434 - room_booking_agent - INFO - Filling Momentus booking form...
+2025-07-30 09:26:04,454 - room_booking_agent - WARNING - Could not find date field
+2025-07-30 09:26:04,476 - room_booking_agent - WARNING - Could not find start time field
+2025-07-30 09:26:04,489 - room_booking_agent - WARNING - Could not find end time field
+2025-07-30 09:26:04,501 - room_booking_agent - WARNING - Could not find capacity field
+2025-07-30 09:26:04,501 - room_booking_agent - INFO - Filled 0 out of 4 attempted fields
+2025-07-30 09:26:04,502 - room_booking_agent - WARNING - Could not fill booking form completely
+2025-07-30 09:26:04,502 - room_booking_agent - INFO - Attempting to submit Momentus form...
+2025-07-30 09:26:04,526 - room_booking_agent - ERROR - No submit button found
+2025-07-30 09:26:04,527 - room_booking_agent - ERROR - Could not submit Momentus form
+2025-07-30 09:27:13,087 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5C04AF4D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8fbd11e90c7c5eb574dea39dc45d6282
+2025-07-30 09:27:17,170 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5C05416D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8fbd11e90c7c5eb574dea39dc45d6282
+2025-07-30 09:27:21,265 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C5C0541310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8fbd11e90c7c5eb574dea39dc45d6282
+2025-07-30 09:27:25,319 - room_booking_agent - INFO - Browser driver closed
+2025-07-30 09:48:04,402 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 09:48:29,233 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-30 09:48:29,248 - room_booking_agent - INFO - Processed user request: aug 16 exam review room for 40 students, somehwere in CBA, 10-11am
+2025-07-30 09:48:36,967 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 09:48:37,520 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:48:37,552 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:48:37,591 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 09:48:38,711 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-07-30 09:48:40,826 - room_booking_agent - INFO - Browser driver closed
+2025-07-30 09:53:43,795 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 09:54:09,240 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-30 09:54:09,256 - room_booking_agent - INFO - Processed user request: i need a room for 40 students for exam review, aug 16, in cba, 10-11am
+2025-07-30 09:54:17,262 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 09:54:17,748 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:54:17,785 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:54:17,822 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 09:54:18,892 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-07-30 09:55:03,414 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C25A73F230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3317dc788db132415223c410bfd0cca9
+2025-07-30 09:55:07,497 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C25A6EA350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3317dc788db132415223c410bfd0cca9
+2025-07-30 09:55:11,597 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C25A6E9950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3317dc788db132415223c410bfd0cca9
+2025-07-30 09:55:15,631 - room_booking_agent - INFO - Browser driver closed
+2025-07-30 09:57:49,383 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-07-30 09:58:13,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-30 09:58:13,310 - room_booking_agent - INFO - Processed user request: i need a room in cba for 40 students, aug 16, 10-11a for exam review. needs a laptop projector
+2025-07-30 09:58:17,942 - WDM - INFO - ====== WebDriver manager ======
+2025-07-30 09:58:18,427 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:58:18,465 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-30 09:58:18,495 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-30 09:58:19,538 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-07-30 10:02:34,171 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B3533380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e31f09c6214230b64215ab4e8ce2d66
+2025-07-30 10:02:38,268 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B34DDBD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e31f09c6214230b64215ab4e8ce2d66
+2025-07-30 10:02:42,353 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B34DE0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e31f09c6214230b64215ab4e8ce2d66
+2025-07-30 10:02:46,402 - room_booking_agent - INFO - Browser driver closed

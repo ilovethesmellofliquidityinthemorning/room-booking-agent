@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(room-booking-envScriptsactivate)",
+      "Bash(pip install:*)",
+      "Bash(./activate)",
+      "Bash(python:*)",
+      "Bash(dir /a .env*)",
+      "Bash(ls:*)",
+      "Bash(start_chrome_debug.bat)",
+      "Bash(./start_chrome_debug.bat)",
+      "Bash(start chrome.exe:*)",
+      "Bash(cmd /c:*)",
+      "Bash(del \"C:\\Coding\\room-booking-agent\\test_fixed_booking.py\")",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}
