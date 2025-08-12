@@ -1279,3 +1279,77 @@ AK', Type='button', ID='O365_MainLink_Me'
 2025-07-30 10:02:38,268 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B34DDBD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e31f09c6214230b64215ab4e8ce2d66
 2025-07-30 10:02:42,353 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A8B34DE0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e31f09c6214230b64215ab4e8ce2d66
 2025-07-30 10:02:46,402 - room_booking_agent - INFO - Browser driver closed
+2025-08-11 17:58:45,986 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 17:59:22,840 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 17:59:22,854 - room_booking_agent - INFO - Processed user request: book me a room for 40 students for exam review on firday aug 15 in CBA. the room needs a laptop projector. 10am-11am
+2025-08-11 17:59:39,244 - WDM - INFO - ====== WebDriver manager ======
+2025-08-11 17:59:39,980 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 17:59:40,265 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 17:59:40,295 - WDM - INFO - There is no [win64] chromedriver "139.0.7258.66" for browser google-chrome "139.0.7258" in cache
+2025-08-11 17:59:40,296 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 17:59:40,392 - WDM - INFO - WebDriver version 139.0.7258.66 selected
+2025-08-11 17:59:40,395 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.66/win32/chromedriver-win32.zip
+2025-08-11 17:59:40,396 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.66/win32/chromedriver-win32.zip
+2025-08-11 17:59:40,503 - WDM - INFO - Driver downloading response is 200
+2025-08-11 17:59:40,902 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 17:59:51,302 - WDM - INFO - Driver has been saved in cache [C:\Users\akash\.wdm\drivers\chromedriver\win64\139.0.7258.66]
+2025-08-11 17:59:53,098 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-08-11 18:02:24,056 - room_booking_agent - INFO - Browser driver closed
+2025-08-11 18:09:52,519 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 18:10:21,752 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:10:21,757 - room_booking_agent - INFO - Processed user request: book a room for 40 students in CBA on friday aug 15 2025, for exam review 10-11a. need a laptop projector in the room
+2025-08-11 18:10:28,990 - WDM - INFO - ====== WebDriver manager ======
+2025-08-11 18:10:29,496 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:10:29,535 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:10:29,572 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-11 18:10:30,657 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-08-11 18:13:39,098 - room_booking_agent - INFO - Browser driver closed
+2025-08-11 18:32:07,555 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 18:32:39,730 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:32:39,745 - room_booking_agent - INFO - Processed user request: i need a rooom for exam review friday aug 15 from 10-11a for 40 students for exam review. needs a projector for the laptop i already have
+2025-08-11 18:32:57,499 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 18:33:31,265 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:33:31,270 - room_booking_agent - INFO - Processed user request: i need a room for 40 students for exam review for friday august 15 2025 in cba, with a projector for my laptop, from 10-11a
+2025-08-11 18:33:34,937 - WDM - INFO - ====== WebDriver manager ======
+2025-08-11 18:33:35,432 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:33:35,479 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:33:35,509 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-11 18:33:36,590 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-08-11 18:35:34,686 - room_booking_agent - INFO - Browser driver closed
+2025-08-11 18:39:27,276 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 18:40:19,591 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:40:19,598 - room_booking_agent - INFO - Processed user request: book me a room for 40 students 10-11am in cba for exam review, on august 15 2025. i need a projector for my laptop
+2025-08-11 18:40:25,204 - WDM - INFO - ====== WebDriver manager ======
+2025-08-11 18:40:25,692 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:40:25,731 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:40:25,784 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-11 18:40:26,865 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-08-11 18:42:54,326 - room_booking_agent - INFO - Browser driver closed
+2025-08-11 18:45:11,785 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 18:45:47,056 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:45:47,078 - room_booking_agent - INFO - Processed user request: room for 40 students for exam review in cba, 10-11a, aug 15 2025. need a projector for laptop
+2025-08-11 18:45:50,572 - WDM - INFO - ====== WebDriver manager ======
+2025-08-11 18:45:51,063 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:45:51,121 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:45:51,160 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-11 18:45:52,154 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-08-11 18:49:06,786 - room_booking_agent - INFO - Browser driver closed
+2025-08-11 18:52:54,101 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 18:53:26,334 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 18:53:26,340 - room_booking_agent - INFO - Processed user request: find em a room for 40 students in cba from 10-11am, on aug 15 2025. needs a projector for my laptop
+2025-08-11 18:53:39,552 - WDM - INFO - ====== WebDriver manager ======
+2025-08-11 18:53:40,042 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:53:40,085 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 18:53:40,119 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-11 18:53:41,181 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-08-11 18:56:46,245 - room_booking_agent - INFO - Browser driver closed
+2025-08-11 18:59:09,007 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 18:59:51,245 - room_booking_agent - INFO - OpenAI client initialized successfully
+2025-08-11 19:00:28,487 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-11 19:00:28,500 - room_booking_agent - INFO - Processed user request: book me a room in cba for 40 studetns on aug 15 2025, for exam review. at 10-11am. needs a projector for my laptop
+2025-08-11 19:00:34,141 - WDM - INFO - ====== WebDriver manager ======
+2025-08-11 19:00:34,648 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 19:00:34,700 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-11 19:00:34,742 - WDM - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-11 19:00:35,747 - room_booking_agent - INFO - Chrome WebDriver initialized
+2025-08-11 19:39:24,293 - room_booking_agent - INFO - Browser driver closed

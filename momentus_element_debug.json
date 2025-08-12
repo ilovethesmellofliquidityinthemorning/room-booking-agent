@@ -1,0 +1,17 @@
+{
+  "url": "https://utaus.ungerboeck.net/Apps/OSR/",
+  "title": "Search - McCombs School of Business",
+  "element_counts": {
+    "input": 6,
+    "select": 0,
+    "button": 27,
+    "div": 1175,
+    "span": 144,
+    "a": 4
+  },
+  "window_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "timestamp": "2025-08-11T19:01:48.649050"
+}
